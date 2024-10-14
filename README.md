@@ -25,15 +25,13 @@ I'm ChHsiching, a full-stack developer.
 | ![Backend][backend] | ![Spring Boot][springboot] ![.Net][.net] ![Node][node] ![MySQL][mysql] |
 | ![Devops][devops] | ![Nginx][nginx] ![Docker][docker] ![Kubernetes][kubernetes] |
 | ![IDE][ide] | ![Neovim][neovim] ![WebStorm][webstorm] ![IDEA][idea] ![Visual Studio Code][vscode] ![Visual Studio][visual-studio] |
-| ![Workflow][workflow] | ![Git][git] ![GitHub][github] [![Gitmoji][gitmoji]][gcw] |
-
+| ![Workflow][workflow] | ![Git][git] ![GitHub][github] ![Gitmoji][gitmoji] |
 
 
 [frontend]: https://img.shields.io/badge/-Frontend-black?style=flat
 [vue]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff
 [react]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
 [antd]: https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design
-
 
 
 [backend]: https://img.shields.io/badge/-Backend-black?style=flat
@@ -49,7 +47,6 @@ I'm ChHsiching, a full-stack developer.
 [kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff
 
 
-
 [ide]: https://img.shields.io/badge/-IDE-black?style=flat
 [neovim]: https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff
 [vscode]: https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white
@@ -58,16 +55,14 @@ I'm ChHsiching, a full-stack developer.
 [visual-studio]: https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white
 
 
-
-
-
 [workflow]: https://img.shields.io/badge/-Workflow-black?style=flat
 [git]: https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff
 [github]: https://img.shields.io/badge/-GitHub-black?style=flat&logo=github
 
-[gitHub-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
-[gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-black?style=flat
-[gcw]: https://github.com/arvinxx/gitmoji-commit-workflow
+
+[gitmoji]: https://img.shields.io/badge/-😜_Gitmoji-black?style=flat
+
+
 
 ### ❤️ GitHub Stats
 
