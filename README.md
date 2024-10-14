@@ -1,8 +1,8 @@
-### Hi 👋
+# Hi 👋
 
 I'm ChHsiching, a full-stack developer.
 
-### ✍️ Languages
+## ✍️ Languages
 
 ![Shell][shell] ![Java][java] ![C#][c#] ![HTML][html] ![CSS][css] ![JavaScript][javascript] ![TypeScript][typescript]
 
@@ -17,7 +17,7 @@ I'm ChHsiching, a full-stack developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChHsiching&hide_border=true&layout=compact&theme=dracula&locale=en)
 
-### 🛠️ Tech Stack and Tools
+## 🛠️ Tech Stack and Tools
 
 | End | Stack |
 | --- | --- |
@@ -64,6 +64,6 @@ I'm ChHsiching, a full-stack developer.
 
 
 
-### ❤️ GitHub Stats
+## ❤️ GitHub Stats
 
 ![ChHsiching's github stats](https://github-readme-stats.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en)![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ChHsiching&card_width=467&card_height=200&theme=dracula&mode=weekly&hide_border=true&locale=en)
