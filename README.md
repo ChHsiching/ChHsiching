@@ -67,3 +67,9 @@
 ## ❤️ GitHub Stats
 
 ![ChHsiching's github stats](https://github-readme-stats.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en)![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ChHsiching&card_width=467&card_height=200&theme=dracula&mode=weekly&hide_border=true&locale=en)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChHsiching/ChHsiching/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChHsiching/ChHsiching/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChHsiching/ChHsiching/output/github-contribution-grid-snake.svg">
+</picture>
