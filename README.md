@@ -67,7 +67,9 @@
 
 ## ❤️ GitHub Stats
 
-![ChHsiching's github stats](https://github-readme-stats.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en)![GitHub streak](https://streak-stats.demolab.com/?user=ChHsiching&theme=dracula&hide_border=true&date_format=[Y.]n.j&mode=weekly&card_width=500&card_height=200)
+![ChHsiching's github stats](https://github-readme-stats.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en)
+
+![GitHub streak](https://streak-stats.demolab.com/?user=ChHsiching&theme=dracula&hide_border=true&date_format=[Y.]n.j&mode=weekly&card_width=500&card_height=180)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChHsiching/ChHsiching/output/snake-dark.svg">
