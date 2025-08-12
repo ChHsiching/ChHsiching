@@ -22,7 +22,7 @@
 
 | End | Stack |
 | --- | --- |
-| ![Frontend][frontend] | ![Vue][vue] ![React][react] ![antd][antd]  |
+| ![Frontend][frontend] | ![Vue][vue] ![React][react] ![antd][antd] ![Electron][electron] |
 | ![Backend][backend] | ![Spring Boot][springboot] ![.Net][.net] ![Node][node] ![MySQL][mysql] |
 | ![Devops][devops] | ![Nginx][nginx] ![Docker][docker] ![Kubernetes][kubernetes] |
 | ![IDE][ide] | ![Neovim][neovim] ![WebStorm][webstorm] ![IDEA][idea] ![Visual Studio Code][vscode] ![Visual Studio][visual-studio] |
@@ -33,6 +33,7 @@
 [vue]: https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff
 [react]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
 [antd]: https://img.shields.io/badge/-Ant_Design-0170fe?style=flat&logo=ant-design
+[electron]: https://img.shields.io/badge/Electron-1b1c26?logo=electron&logoColor=9feaf9
 
 
 [backend]: https://img.shields.io/badge/-Backend-black?style=flat
