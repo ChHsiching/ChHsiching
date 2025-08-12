@@ -11,7 +11,7 @@
 [c++]: https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white
 [c#]: https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white
 [html]: https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white
-[css]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff
+[css]: https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff
 [javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000
 [typescript]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff
 
