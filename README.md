@@ -65,17 +65,16 @@
 [gitmoji]: https://img.shields.io/badge/-😜_Gitmoji-black?style=flat
 
 
-
+<!--
 ## ❤️ GitHub Stats
 
-<!--
 ![ChHsiching's github stats](https://github-readme-stats.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en)
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=ChHsiching&theme=dracula&hide_border=true&mode=weekly&card_width=560&card_height=195)
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChHsiching/ChHsiching/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChHsiching/ChHsiching/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChHsiching/ChHsiching/output/snake-dark.svg">
 </picture>
+
