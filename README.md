@@ -4,10 +4,11 @@
 
 ## ✍️ Languages
 
-![Shell][shell] ![Java][java] ![C++][c++] ![C#][c#] ![HTML][html] ![CSS][css] ![JavaScript][javascript] ![TypeScript][typescript]
+![Shell][shell] ![Java][java] ![Python][python] ![C++][c++] ![C#][c#] ![HTML][html] ![CSS][css] ![JavaScript][javascript] ![TypeScript][typescript]
 
 [shell]: https://img.shields.io/badge/Shell-1793D1?logo=arch-linux&logoColor=fff
 [java]: https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white
+[python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff
 [c++]: https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white
 [c#]: https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white
 [html]: https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white
