@@ -17,7 +17,7 @@
 [typescript]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff
 
 
-![Top Langs](https://github-readme-stats-topaz-three-29.vercel.app/api/top-langs/?username=ChHsiching&hide_border=true&layout=compact&theme=dracula&locale=en)
+![Top Langs](https://github-readme-stats-chhsichs-projects.vercel.app/api/top-langs/?username=ChHsiching&hide_border=true&layout=compact&theme=dracula&locale=en)
 
 ## 🛠️ Tech Stack and Tools
 
