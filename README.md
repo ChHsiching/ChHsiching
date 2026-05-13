@@ -69,7 +69,7 @@
 
 ## ❤️ GitHub Stats
 
-![ChHsiching's github stats](https://github-readme-stats.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en)
+![ChHsiching's github stats](https://github-readme-stats-chhsichs-projects.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en)
 
 ![GitHub streak](https://github-readme-streak-stats-wheat-six.vercel.app/?user=ChHsiching&theme=dracula&hide_border=true&mode=daily&card_width=560&card_height=195)
 
