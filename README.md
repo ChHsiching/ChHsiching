@@ -73,7 +73,7 @@
 
 ![GitHub streak](https://github-readme-streak-stats-chhsichs-projects.vercel.app/?user=ChHsiching&theme=dracula&hide_border=true&mode=daily&card_width=560&card_height=195)
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChHsiching&theme=github-compact)
+![GitHub activity graph](https://github-readme-activity-graph-chhsichs-projects.vercel.app/graph?username=ChHsiching&theme=github-compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChHsiching/ChHsiching/output/snake-dark.svg">
