@@ -69,9 +69,50 @@
 
 ## ❤️ GitHub Stats
 
-![ChHsiching's github stats](https://github-readme-stats-chhsichs-projects.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en)
-
-![GitHub streak](https://github-readme-streak-stats-chhsichs-projects.vercel.app/?user=ChHsiching&theme=dracula&hide_border=true&mode=daily&card_width=560&card_height=195)
+<picture>
+  <source
+    media="(max-width: 768px)"
+    srcset="./transparent.svg"
+  />
+  <img
+    src="https://github-readme-stats-chhsichs-projects.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en&card_width=495"
+    width="49%"
+    alt="ChHsiching's github stats"
+  />
+</picture>
+<picture>
+  <source
+    media="(max-width: 768px)"
+    srcset="./transparent.svg"
+  />
+  <img
+    src="https://github-readme-streak-stats-chhsichs-projects.vercel.app/?user=ChHsiching&theme=dracula&hide_border=true&mode=daily&card_width=495&card_height=195"
+    width="49%"
+    alt="GitHub streak"
+  />
+</picture>
+<picture>
+  <source
+    media="(min-width: 769px)"
+    srcset="./transparent.svg"
+  />
+  <img
+    src="https://github-readme-stats-chhsichs-projects.vercel.app/api?username=ChHsiching&show_icons=true&theme=dracula&hide_border=true&locale=en&card_width=495"
+    width="100%"
+    alt="ChHsiching's github stats"
+  />
+</picture>
+<picture>
+  <source
+    media="(min-width: 769px)"
+    srcset="./transparent.svg"
+  />
+  <img
+    src="https://github-readme-streak-stats-chhsichs-projects.vercel.app/?user=ChHsiching&theme=dracula&hide_border=true&mode=daily&card_width=495&card_height=195"
+    width="100%"
+    alt="GitHub streak"
+  />
+</picture>
 
 ![GitHub activity graph](https://github-readme-activity-graph-chhsichs-projects.vercel.app/graph?username=ChHsiching&theme=github-compact)
 
